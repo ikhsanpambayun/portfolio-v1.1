@@ -11,7 +11,7 @@ const page = () => {
       <>
         <div className="h-screen w-full py-5 md:py-10 flex flex-col gap-12">
           <h1 className="text-6xl md:text-8xl font-semibold max-w-[900px]">
-            Like what you see? Send me a massage.
+            Like what you see? Send me a message.
           </h1>
           <div className="space-y-2">
             <a href="mailto:ikhsan.pambayun@gmail.com">
