@@ -84,7 +84,7 @@ const page = () => {
                 "MongoDB",
                 "Google OAuth",
               ]}
-              to="november 2023"
+              to="september 2023"
               site="https://prompter-app.vercel.app"
             />
             <ProjectCard
@@ -98,7 +98,8 @@ const page = () => {
                 "PostgreSQL",
                 "Test-Driven-Development",
               ]}
-              to="november 2023"
+              from="january 2022"
+              to="june 2022"
             />
           </div>
         </div>
