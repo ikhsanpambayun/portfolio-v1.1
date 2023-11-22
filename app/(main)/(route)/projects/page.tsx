@@ -28,6 +28,21 @@ const page = () => {
               site="https://jottion-app.vercel.app"
             />
             <ProjectCard
+              url="/images/projects/ball-hub-thumb.png"
+              title="BallHub"
+              role="front-end developer"
+              type="full stack website"
+              stacks={[
+                "Next.js",
+                "TypeScript",
+                "Tailwind",
+                "Framer Motion",
+                "football-data API",
+              ]}
+              to="november 2023"
+              site="https://ball-hub.vercel.app"
+            />
+            <ProjectCard
               url="/images/projects/biskita-thumb.png"
               title="Biskita Alternative App"
               role="front-end developer"
